@@ -8,11 +8,11 @@ import Netflix from '../assets/netflix.jpeg';
 
 const Work = () => {
   return (
-    <div name='work' className='w-full md:h-screen text-[#9daaf2] bg-[#1a2238]'>
+    <div name='projects' className='w-full md:h-screen text-[#9daaf2] bg-[#1a2238]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 text-[#ff6a3d] border-[#f4db7d]'>
-            Successfull projects
+            Projects
           </p>
           <p className='py-6'>Check out some of my recent working projects</p>
         </div>
@@ -28,7 +28,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-[#9daaf2] tracking-wider'>
-                Facebook Clone Using React JS
+                Facebook Clone 
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -51,7 +51,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-[#9daaf2] tracking-wider'>
-                Medium 3.0 Clone
+                Medium 2.0 Clone
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -122,7 +122,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-[#9daaf2] tracking-wider'>
-                Twitter clone
+                Twitter clone 
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
@@ -145,7 +145,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-[#9daaf2] tracking-wider'>
-                Netflix clone
+                Netflix clone 
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
