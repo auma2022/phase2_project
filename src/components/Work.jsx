@@ -8,7 +8,7 @@ import Netflix from '../assets/netflix.jpeg';
 
 const Work = () => {
   return (
-    <div name='projects' className='w-full md:h-screen mt-[350px] text-[#9daaf2] bg-[#1a2238]'>
+    <div name='projects' className='w-full md:h-screen mt-[500px] text-[#9daaf2] bg-[#1a2238]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 text-[#ff6a3d] border-[#f4db7d]'>
