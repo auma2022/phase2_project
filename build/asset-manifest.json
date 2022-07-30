@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.075ed0b5.css",
+    "main.js": "/static/js/main.990bfcda.js",
+    "static/media/logos.png": "/static/media/logos.89a88368afb78c08cf90.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/insta.jpeg": "/static/media/insta.6cdd829132b7e559fab0.jpeg",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/tiktok.jpeg": "/static/media/tiktok.1d297cb4f93e88d54fc3.jpeg",
+    "index.html": "/index.html",
+    "main.075ed0b5.css.map": "/static/css/main.075ed0b5.css.map",
+    "main.990bfcda.js.map": "/static/js/main.990bfcda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075ed0b5.css",
+    "static/js/main.990bfcda.js"
+  ]
+}
